@@ -24,3 +24,6 @@ sudo systemctl status gunicorn
 sudo systemctl daemon-reload
 sudo systemctl restart gunicorn
 ```
+```python
+from django auth contrib import Login
+```
